@@ -615,7 +615,7 @@ Ascovirgaria	7	Saprotroph		Probable		"Tedersoo et al. 28 November 2014, Science 
 Ascozonus	7	Saprotroph		Probable		"Tedersoo et al. 28 November 2014, Science 346, 1256688"
 Asellaria	7	Symbiotroph	Animal gut	Probable		"Tedersoo et al. 28 November 2014, Science 346, 1256688"
 Aserocybe	7	Saprotroph		Probable		"Tedersoo et al. 28 November 2014, Science 346, 1256688"
-AseroÔ	7	Saprotroph		Probable		"Tedersoo et al. 28 November 2014, Science 346, 1256688"
+Aseroe	7	Saprotroph		Probable		"Tedersoo et al. 28 November 2014, Science 346, 1256688"
 Ashbia	7	Saprotroph		Highly Probable		"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
 Ashbya	7	Saprotroph		Highly Probable		"Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego"
 Ashbya gossypi	8	Biotroph	Plant Pathogen	Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
@@ -2939,7 +2939,7 @@ Enterostigma	7	Symbiotroph	Lichenized	Highly Probable	Syn. Cryptothecia	Esslinge
 Entocybe	7	Saprotroph		Probable		"Tedersoo et al. 28 November 2014, Science 346, 1256688"
 Entodesmium	7	Saprotroph		Probable		"Tedersoo et al. 28 November 2014, Science 346, 1256688"
 Entoleuca	7	Saprotroph		Probable		"Tedersoo et al. 28 November 2014, Science 346, 1256688"
-Entoloma	7	Symbiotroph|Saprotroph	Ectomycorrhizal|Saprobic	Probable		"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto); http://mycorrhizas.info/ecmf.html (ECM/Not ECM)"
+Entoloma	7	Symbiotroph|Saprotroph	Ectomycorrhizal|Saprobic	Possible		"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (sensu stricto); http://mycorrhizas.info/ecmf.html (ECM/Not ECM)"
 Entoloma abortivum	8	Biotroph	Mycoparasite	Highly Probable		List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
 Entoloma parasiticum	8	Biotroph	Mycoparasite	Highly Probable		List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
 Entoloma pseudoparasiticum	8	Biotroph	Mycoparasite	Highly Probable		List compiled by John Plischke III; home.comcast.net/~grifola/fungionfungi.pdf
