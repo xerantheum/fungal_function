@@ -1158,8 +1158,8 @@ Byssostilbe stilbigera	8	Biotroph	Mycoparasite		Highly Probable		List compiled b
 Byssothecium	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Cabalodontia	7	Saprotroph			Probable	White rot	Tedersoo et al. 28 November 2014, Science 346, 1256688
 Caccobius	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
-Cadophora	7	Symbiotroph|Biotroph	Ectomycorrhizal|Dark septate root endophyte		Highly Probable		Tedersoo L, May TW, Smith ME. 2010 (as ECM). Mycorrhiza 20: 217-263. Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
-Cadophora finlandia	8	Symbiotroph|Biotroph	Dark septate root endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
+Cadophora	7	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Mycorrhiza 20: 217-263. Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
+Cadophora finlandia	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
 Caecomyces	7	Symbiotroph	Animal gut		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Caeoma	7	Biotroph	Plant pathogen		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Caeoma	7	Biotroph	Plant pathogen		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
@@ -1286,9 +1286,9 @@ Capnofrasera	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 
 Capnokyma	7	Biotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Capnophaeum	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Caprettia	7	Symbiotroph	Lichenized		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
-Capronia	7	Saprotroph		Facultative yeast	Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
-Capronia peltigerae 	8	Biotroph|Symbiotroph	Lichenicolous fungus		Possible		Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Capronia thamnoliae	8	Biotroph|Symbiotroph	Lichenicolous fungus		Possible		Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Capronia	7	Symbiotroph|Biotroph	Dark septate endophyte	Facultative yeast	Highly Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688; Taylor et al. 2014. Ecological Monographs 84:3-20.
+Capronia villosa	8	Symbiotroph|Biotroph	Dark septate endophyte	Facultative yeast	Highly Probable		Taylor et al. 2014. Ecological Monographs 84:3-20.Capronia thamnoliae	8	Biotroph|Symbiotroph	Lichenicolous fungus		Possible		Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
+Capronia peltigerae 	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Caproventuria	7	Biotroph	Plant pathogen		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Capsulotheca	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Carassea	7	Symbiotroph	Lichenized		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
@@ -1599,7 +1599,7 @@ Chaetothyriomyces	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Sci
 Chaetothyrium	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Chaetotyphula	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Chailletia	7	Biotroph	Plant pathogen		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
-Chalara	7	Biotroph|Saprotroph	Root endophyte|Plant pathogen		Possible		Tedersoo et al. 28 November 2014, Science 346, 1256688
+Chalara	7	Biotroph|Saprotroph	endophyte|Plant pathogen		Possible		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Chalara elegans	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Chalara fraxinea	8	Biotroph	Plant Pathogen		Probable		Kowalski T, Holdenrieder O. 2009. Forest Pathology 38: 1_7
 Chalara paradoxa	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
@@ -2172,7 +2172,7 @@ Cryptosporella umbrina	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.or
 Cryptosporiopsis	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Cryptosporiopsis curvispora	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Cryptosporiopsis perennans	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
-Cryptosporiopsis rhizophila	8	Symbiotroph|Biotroph	Dark septate root endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
+Cryptosporiopsis rhizophila	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
 Cryptosporiopsis tarraconensis	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Cryptosporium minimum	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Cryptostistis mariae	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
@@ -3901,7 +3901,7 @@ Heterocarpon ochroleucum	8	Biotroph|Symbiotroph	Lichenicolous fungus		Possible		
 Heterochaete	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Heterochaetella	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Heteroconium	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
-Heteroconium chaetospira	8	Symbiotroph|Biotroph	Dark septate root endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
+Heteroconium chaetospira	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
 Heterocyphelium	7	Symbiotroph	Lichenized		Highly Probable		Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Heterodea	7	Symbiotroph	Lichenized		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Heterodermia	7	Symbiotroph	Lichenized		Highly Probable		Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -4454,7 +4454,9 @@ Lecidopyrenopsis	7	Symbiotroph	Lichenized		Probable		Tedersoo et al. 28 November
 Leciographa	7	Symbiotroph	Lichenized		Highly Probable	Syn. Opegrapha some lichenicolous	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Leciophysma	7	Symbiotroph	Lichenized		Highly Probable		Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Lectera	7	Biotroph	Plant pathogen		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
-Lecythophora	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
+Lecythophora	7	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Taylor DL et al. 2014. Ecological Monographs 84:3-20.
+Lecythophora mutabilis	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Taylor DL et al. 2014. Ecological Monographs 84:3-20.
+Leptodontidium elatius	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Taylor DL et al. 2014. Ecological Monographs 84:3-20.
 Lecythothecium	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Legerioides	7	Symbiotroph	Animal gut		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Legeriomyces	7	Symbiotroph	Animal gut		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
@@ -4508,10 +4510,9 @@ Leptocorticium	7	Saprotroph			Probable	White rot	Tedersoo et al. 28 November 201
 Leptocucurthis	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Leptodiscella	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Leptodiscus terrestris	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
-Leptodontidium	7	Symbiotroph|Biotroph	Dark septate root endophyte		Probable		Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM), New Phytologist 140:295-310 (as Dark septate endophytes).
-Leptodontidium orchidicola	8	Symbiotroph|Biotroph	Dark septate root endophyte		Highly Probable		Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM), New Phytologist 140:295-310 (as Dark septate endophytes).
-Leptodontium elatius	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
-Leptodothiorella	7	Biotroph	Plant pathogen		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
+Leptodontidium	7	Symbiotroph|Biotroph	Dark septate endophyte		Highly probable		New Phytologist 140:295-310 (as Dark septate endophytes); Taylor DL et al. 2014. Ecological Monographs 84:3-20.
+Leptodontidium orchidicola	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (Not ECM), New Phytologist 140:295-310 (as Dark septate endophytes).
+Leptodontium elatius	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly probable		New Phytologist 140:295-310 (as Dark septate endophytes); Taylor DL et al. 2014. Ecological Monographs 84:3-20.Leptodothiorella	7	Biotroph	Plant pathogen		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Leptogidium	7	Symbiotroph	Lichenized		Highly Probable		Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Leptogium	7	Symbiotroph	Lichenized		Highly Probable		Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Leptographium	7	Biotroph	Plant pathogen		Probable	Blue-staining	Tedersoo et al. 28 November 2014, Science 346, 1256688
@@ -5004,9 +5005,9 @@ Melaspilea	7	Symbiotroph	Lichenized		Possible	Lichenized and non-licenized taxa	
 Melastiza	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Melchioria	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Meliniomyces	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
-Meliniomyces bicolor	8	Symbiotroph|Biotroph	Dark septate root endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
+Meliniomyces bicolor	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
 Meliniomyces variabilis	8	Symbiotroph|Biotroph	Eroicoid mycorrhizae|Dark Septate Endophyte		Highly Probable		Clemmensen et al. 2014. New Phytologist. DOI: 10.1111/nph.13208
-Meliniomyces vraolstadiae	8	Symbiotroph|Biotroph	Dark septate root endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
+Meliniomyces vraolstadiae	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
 Melinomyces	7	Symbiotroph	Ectomycorrhizal		Possible		Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (pro parte)
 Meliola	7	Biotroph	Plant pathogen		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Meliola camelliae	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
@@ -5180,7 +5181,8 @@ Molleriella	7	Biotroph	Plant pathogen		Probable		Tedersoo et al. 28 November 201
 Molliardiomyces	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Mollicamarops	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Mollicarpus	7	Saprotroph			Probable	White rot	Tedersoo et al. 28 November 2014, Science 346, 1256688
-Mollisia	7	Biotroph	Plant pathogen		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
+Mollisia	7	Symbiotroph|Biotroph	Dark septate endophyte		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688 (Plant Pathogen); Taylor DL et al. 2014. Ecological Monographs 84:3-20 (DSE)
+Mollisia minutella	8	Symbiotroph|Biotroph	Dark septate endophyte		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688 (Plant Pathogen); Taylor DL et al. 2014. Ecological Monographs 84:3-20 (DSE)
 Mollisiella	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Mollisina	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Mollisinopsis	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
@@ -5706,7 +5708,7 @@ Oevstedalia	7	Symbiotroph	Lichenized		Probable		Tedersoo et al. 28 November 2014
 Ogataea	7	Saprotroph		Yeast	Highly Probable		Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
 Ohleria	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Ohleriella	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
-Oidiodendron	7	Symbiotroph|Biotroph	Dark septate root endophyte		Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
+Oidiodendron	7	Symbiotroph|Biotroph	Dark septate endophyte		Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
 Oidiodendron	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Oidiodendron majus	8	Symbiotroph|Biotroph	Eroicoid mycorrhizae|Dark Septate Endophyte		Highly Probable		Clemmensen et al. 2014. New Phytologist. DOI: 10.1111/nph.13208
 Oidiodendron rhodogenum	8	Symbiotroph|Biotroph	Eroicoid mycorrhizae|Dark Septate Endophyte		Highly Probable		Clemmensen et al. 2014. New Phytologist. DOI: 10.1111/nph.13208
@@ -6048,7 +6050,7 @@ Periamphispora	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Scienc
 Pericladium	7	Biotroph	Plant pathogen	Facultative yeast	Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Periconia byssoides	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Periconia circinata	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
-Periconia macrospinosa	8	Symbiotroph|Biotroph	Dark septate root endophyte		Highly Probable		Mandyam K, Loughin T, Jumpponen A. 2010. Mycologia 102:813-821
+Periconia macrospinosa	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Mandyam K, Loughin T, Jumpponen A. 2010. Mycologia 102:813-821
 Periconiella	7	Biotroph	Plant pathogen		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Periconiella cocoes	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Periconiella musae	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
@@ -6192,7 +6194,7 @@ Phaeogalera	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 3
 Phaeoglossum	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Phaeographina	7	Symbiotroph	Lichenized		Highly Probable	Syn. Fissurina, Leiorreuma, Phaeographis, Platygramme	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Phaeographis	7	Symbiotroph	Lichenized		Highly Probable		Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Phaeographopsis	7	Symbiotroph	Lichenized		Highly Probable		Aptroot A, Diederich P, S_rusiaux E, Sipman HJM. 1997. Bibliotheca Lichenologica. 64: 1-220
+Phaeographopsis	7	Symbiotroph	Lichenized		Highly Probable		AptA, Diederich P, S_rusiaux E, Sipman HJM. 1997. Bibliotheca Lichenologica. 64: 1-220
 Phaeographopsis	7	Symbiotroph	Lichenized		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Phaeohelotium	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Phaeohydnochaete	7	Saprotroph			Probable	White rot	Tedersoo et al. 28 November 2014, Science 346, 1256688
@@ -6283,18 +6285,24 @@ Phialea	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 
 Phialemonium	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Phialina	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Phialoascus	7	Biotroph	Mycoparasite	Yeast	Highly Probable		Kurtzman CP, Fell JW, Boekhout T (eds.) 2011. The Yeasts, a Taxonomic Study. Fifth Edition. Vols 1-3. Elsevier, San Diego
-Phialocephala	7	Symbiotroph|Biotroph	Dark septate root endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
-Phialocephala dimorphospora	8	Symbiotroph|Biotroph	Dark septate root endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
-Phialocephala fortinii	8	Symbiotroph|Biotroph	Ericoid mycorrhizae|Dark septate root endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
-Phialocephala glacialis	8	Symbiotroph|Biotroph	Dark septate root endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
+Phialocephala	7	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
+Phialocephala dimorphospora	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
+Phialocephala fortinii	8	Symbiotroph|Biotroph	Ericoid mycorrhizae|Dark septate endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
+Phialocephala glacialis	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
+Phialocephala sphaeroides	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Taylor DL et al. 2014. Ecological Monographs 84:3-20 (DSE)
+Phialocephala virens	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Taylor DL et al. 2014. Ecological Monographs 84:3-20 (DSE)
 Phialogeniculata	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
-Phialophora	7	Symbiotroph	Dark septate root endophyte	Facultative yeast	Probable		Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html
+Phialophora	7	Symbiotroph	Dark septate endophyte	Facultative yeast	Probable		Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; http://mycorrhizas.info/ecmf.html
 Phialophora asteris	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Phialophora cinerescens	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
-Phialophora graminicola	8	Symbiotroph|Biotroph	Dark septate root endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
+Phialophora graminicola	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
 Phialophora gregata	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Phialophora malorum	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
 Phialophora tracheiphila	8	Biotroph	Plant Pathogen		Probable		http://www.apsnet.org/publications/commonnames/Pages/default.aspx
+Phialophora finlandia	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Taylor DL et al. 2014. Ecological Monographs 84:3-20 (DSE)
+Phialophora gregata	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Taylor DL et al. 2014. Ecological Monographs 84:3-20 (DSE)
+Phialophora phaeophora	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Taylor DL et al. 2014. Ecological Monographs 84:3-20 (DSE)
+Phialophora verrucosa	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Taylor DL et al. 2014. Ecological Monographs 84:3-20 (DSE)
 Phialophoropsis	7	Biotroph	Plant pathogen		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Phialoscypha	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Phialosimplex	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
@@ -6306,7 +6314,7 @@ Phlebia	7	Saprotroph			Probable	White rot	Tedersoo et al. 28 November 2014, Scie
 Phlebiella	7	Saprotroph			Probable	White rot	Tedersoo et al. 28 November 2014, Science 346, 1256688
 Phlebiopsis	7	Saprotroph			Probable	White rot	Tedersoo et al. 28 November 2014, Science 346, 1256688
 Phlebogaster	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
-Phlebopus	7	Symbiotroph|Saprotroph			Probable	Brown rot, associates with root insects	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); http://mycorrhizas.info/ecmf.html (ECM)
+Phlebopus	7	Symbiotroph|Saprotroph			Probable	Brown rot, associates with insects	Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM/Not ECM); http://mycorrhizas.info/ecmf.html (ECM)
 Phlegmacium	7	Symbiotroph	Ectomycorrhizal		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Phleogena	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Phloeopeccania	7	Symbiotroph	Lichenized		Highly Probable		Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -7910,7 +7918,7 @@ Scutula tuberculosa	8	Biotroph|Symbiotroph	Lichenicolous fungus		Possible		Essli
 Scyphophora	7	Symbiotroph	Lichenized		Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Scyphospora	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Scytalidium	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
-Scytalidium vaccinii	8	Symbiotroph|Biotroph	Dark septate root endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
+Scytalidium vaccinii	8	Symbiotroph|Biotroph	Dark septate endophyte		Highly Probable		Newsham 2011. New Phytologist 190:783-793 (as Dark septate endophyte)
 Scytinium	7	Symbiotroph	Lichenized		Highly Probable		Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Scytinopogon	7	Saprotroph			Probable		Tedersoo et al. 28 November 2014, Science 346, 1256688
 Scytinostroma	7	Saprotroph			Probable	White rot	Tedersoo et al. 28 November 2014, Science 346, 1256688
@@ -9554,8 +9562,6 @@ Buelliella saxatilis	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2
 Buelliella trypethelii	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Buelliella usneae	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Burgella flavoparmeliae	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Capronia peltigerae 	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Capronia thamnoliae	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Cecidonia umbonella	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Cecidonia xenophana	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Celidium varians	8	Parasite	Lichenicolous fungus	Possible	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
@@ -12844,7 +12850,6 @@ Boletus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, 
 Bothia	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
 Boughera	7	Symbiont	Ectomycorrhizal	Possible	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45 (ECM); Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263 (NA)"
 Byssocorticium	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
-Cadophora	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263"
 Calostoma	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
 Cantharellus	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
 Castoreum	7	Symbiont	Ectomycorrhizal	Highly_Probable	NA	"Rinaldi AC, Comandini O, Kuyper TW. 2008. Fungal Diversity 33: 1-45; Tedersoo L, May TW, Smith ME. 2010. Mycorrhiza 20: 217-263; http://mycorrhizas.info/ecmf.html"
@@ -13613,7 +13618,7 @@ Petractis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota 
 Phaeocalicium	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Phaeographina	7	Symbiont	Lichen	Highly_Probable	"Syn. Fissurina, Leiorreuma, Phaeographis, Platygramme"	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Phaeographis	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
-Phaeographopsis	7	Symbiont	Lichen	Highly_Probable	NA	"Aptroot A, Diederich P, S_rusiaux E, Sipman HJM. 1997. Bibliotheca Lichenologica. 64: 1-220"
+Phaeographopsis	7	Symbiont	Lichen	Highly_Probable	NA	"AptA, Diederich P, S_rusiaux E, Sipman HJM. 1997. Bibliotheca Lichenologica. 64: 1-220"
 Phaeophyscia	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Phaeorrhiza	7	Symbiont	Lichen	Highly_Probable	NA	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
 Phaeotrema	7	Symbiont	Lichen	Highly_Probable	"Syn. Melanotrema, Thelotrema"	Esslinger TL. 2014. North Dakota State University: http://www.ndsu.edu/pubweb/~esslinge/chcklst/chcklst7.htm
